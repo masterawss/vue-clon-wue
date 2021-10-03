@@ -1,0 +1,16 @@
+{
+  "name": "wiu",
+  "version": "1.0.0",
+  "description": "Vue Clone - personal project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "clone",
+    "practice"
+  ],
+  "author": "Anthony Will Solsol Soplin",
+  "license": "ISC"
+}
